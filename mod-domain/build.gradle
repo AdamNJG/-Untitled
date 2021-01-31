@@ -1,0 +1,5 @@
+version "0.1"
+group "mod.domain"
+dependencies {
+    compile project(':groovylib')
+}

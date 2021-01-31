@@ -1,0 +1,6 @@
+#Sat, 30 Jan 2021 11:06:03 +0000
+
+info.app.version=unspecified
+info.app.name=app-web
+grails.env=production
+info.app.grailsVersion=4.0.5

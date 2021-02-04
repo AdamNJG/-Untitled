@@ -38,8 +38,8 @@ grails {
 			from = "Adam.Goldsmith0@gmail.com"
 		}
 		port = 465
-		username = "AKIAYH62GEIJQC2QQSUL"
-		password = "BDlEVpF1sbg94j91wMsDzdsqt1QJR+obWT8QGkNR0/Wn"
+		username = "*****"
+		password = "*****"
 		props = ["mail.smtp.auth":"true",
 				 "mail.smtp.socketFactory.port":"465",
 				 "mail.smtp.socketFactory.class":"javax.net.ssl.SSLSocketFactory",
